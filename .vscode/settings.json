@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "windows.h": "c",
+        "*.rh": "c",
+        "cstdlib": "c",
+        "extrafunctions.h": "c"
+    }
+}
