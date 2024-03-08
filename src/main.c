@@ -1,5 +1,8 @@
-// Muhammad Nadzhif Fikri (2306210102)
-// 
+// Muhammad Nadzhif Fikri       (2306210102)
+// Muhammad Riyan Satrio Wibowo (2306229323)
+// DWIGINA SITTIZAHWA           (2306250724)
+// FIDO WAHYU CHOIRULINSAN      (2306250674)
+// FADHLUREZA SEBASTIAN         (2306161971)
 
 #include <windows.h>
 #include "extraFunctions.h"
